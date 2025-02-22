@@ -1,7 +1,5 @@
-### **README.md**
 
 ---
-
 # Projet Python : Série Bonus - Projets Avancés
 
 Bienvenue dans ce projet Python qui propose une série de projets avancés pour approfondir vos compétences en programmation. Chaque projet est conçu pour être autonome et couvre des domaines variés tels que la gestion de données, l'analyse de texte, les API, le web scraping, et bien plus encore.

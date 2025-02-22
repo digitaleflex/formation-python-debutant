@@ -51,7 +51,9 @@ class Bibliotheque:
                 return
         print(f"Livre '{titre}' non emprunté ou introuvable.")
 
-    def afficher_livres(self, genre: str = None):
+    from typing import Optional
+
+    def afficher_livres(self, genre: Optional[str] = None):
         if genre:
             filtrer = [livre for livre in self.livres if livre["genre"] == genre]
         else:

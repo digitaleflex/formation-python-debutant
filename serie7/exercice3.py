@@ -1,4 +1,6 @@
-def ajouter_element(dictionnaire: dict, cle: str, valeur: any) -> None:
+from typing import Any
+
+def ajouter_element(dictionnaire: dict, cle: str, valeur: Any) -> None:
     """
     Ajoute un nouvel élément à un dictionnaire.
 
